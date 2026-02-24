@@ -7,7 +7,7 @@ Focused on building clean, efficient, and practical solutions.
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio](https://your-portfolio-link.com)
+🔗 [View Portfolio](https://satyam-2x.github.io/my-portfolio/)
 
 ---
 
